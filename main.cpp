@@ -1,6 +1,6 @@
 /**
  * @file main.cpp
- * @brief Programa de prueba para la clase Matriz con entrada de usuario activa.
+ * @brief Programa para la clase Matriz con entrada de usuario activa.
  */
 //Payan Ibarra Santiago
 //Nuñez Saille Jose
@@ -58,7 +58,7 @@ int main() {
         cout << "A continuaci\xA2n se crear\xA0 una nueva matriz de 2x2." << endl;
         Matriz Usuario(2, 2);
 
-        // Aquí es donde se solicita la interacción
+        // Aquí se solicita la interacción
         cout << "Por favor, ingrese los 4 valores de la matriz:" << endl;
         cin >> Usuario; // Llama a la sobrecarga de operator>>
 
