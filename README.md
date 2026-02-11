@@ -1,6 +1,6 @@
-Equipo:
-Santiago Payan Ibarra
-Jose maria Nuñez saille
+##Equipo:
+* Santiago Payan Ibarra
+* Jose maria Nuñez saille
 
 ---
 
